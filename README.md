@@ -1,3 +1,3 @@
 # Multiplicaodematrix
 
-Código no aplicativo matrix.py
+Código no arquivo matrix.py
